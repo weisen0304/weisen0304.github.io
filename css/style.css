@@ -106,7 +106,6 @@ img.thumbnail {
 .navbar-main .navbar-item {
   display: flex;
   align-items: center;
-  padding: 1.25rem 0.75rem;
 }
 .navbar-main .navbar-item.is-active {
   color: #3273dc;
